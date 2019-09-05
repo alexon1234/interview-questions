@@ -277,6 +277,7 @@ namespace CDSPractical
                 right = result;
             }
         }
+
         /// <summary>
         /// Generate a list of integers from 1 to 100.
         /// 
